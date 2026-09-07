@@ -78,5 +78,13 @@ The script went through a few iterations while I was learning:
 This tool only changes the MAC address of an interface on the machine it's run on. It's intended for use in your own lab environment, or against systems you are explicitly authorized to test. Always get written authorization before performing any security testing.
 
 ## License
+This project was built while learning ethical hacking fundamentals in a
+personal Kali Linux lab. I'm sharing it so others learning the same
+material can study from it. Feel free to use, adapt, and learn from
+this code.
 
-MIT — see [LICENSE](LICENSE).
+---
+
+MIT License
+
+Copyright (c) 2026 Sarfaraz
