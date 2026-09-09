@@ -4,7 +4,6 @@ A command-line tool that changes the MAC address of a Linux network interface â€
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Platform](https://img.shields.io/badge/Platform-Linux-informational)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Why this tool
 
